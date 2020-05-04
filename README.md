@@ -15,3 +15,10 @@ It is based on:
 
 If u don't like the config and vscode setup, just delete them by yourself.
 
+```bash
+# debug
+npm start
+
+# build
+npm run build
+```
